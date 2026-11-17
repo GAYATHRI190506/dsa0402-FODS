@@ -1,0 +1,4 @@
+Resource_Level,Samples,Correct_Predictions,Accuracy
+High,13,13,1.0
+Low,6,6,1.0
+Medium,6,5,0.8333333333333334

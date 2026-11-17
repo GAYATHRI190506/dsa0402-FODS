@@ -1,0 +1,4 @@
+Region,Records,Accuracy,Precision,Recall,F1-Score
+Coastal,11,1.0,1.0,1.0,1.0
+Rayalaseema,9,0.8888888888888888,0.925925925925926,0.8888888888888888,0.892063492063492
+North_Coastal,5,1.0,1.0,1.0,1.0
